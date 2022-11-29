@@ -1,9 +1,9 @@
-# vue3-discord-picker
+# vue3-emojigifpicker
 ____
 
 ![VueJS](https://img.shields.io/badge/vuejs-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D)  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-[![NPM](https://nodei.co/npm/vue3-discordpicker.png)](https://nodei.co/npm/vue3-discordpicker/)
+[![NPM](https://nodei.co/npm/vue3-emojigifpicker.png)](https://nodei.co/npm/vue3-emojigifpicker/)
 
 A new emoji / gif picker for your app !
 Based on discord.
@@ -14,7 +14,7 @@ This components is available only in vue3.
 
 ### Example
 - [Live demo 🎉](https://en-zo.dev/vue3-discordpicker)
-- [Code demo 🎈](https://github.com/enzostvs/vue3-discordpicker/blob/master/examples/Index.vue)
+- [Code demo 🎈](https://github.com/sikeat7/vue3-discordpicker/blob/master/examples/Index.vue)
 
 ### Install
 ```js
@@ -24,14 +24,14 @@ npm install vue3-discordpicker
 ### Global
 ```js
 import Vue from 'vue'
-import DiscordPicker from 'vue3-discordpicker'
+import DiscordPicker from 'vue3-emojigifpicker'
 
 Vue.use(DiscordPicker, /* { default options with global component } */)
 ```
 
 ### Local registration
 ```js
-import DiscordPicker from 'vue3-discordpicker'
+import DiscordPicker from 'vue3-emojigifpicker'
 
 export default {
   components: {
