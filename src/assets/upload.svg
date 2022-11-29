@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <defs>
+        <filter color-interpolation-filters="auto" id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.725490 0 0 0 0 0.733333 0 0 0 0 0.745098 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g filter="url(#filter-1)" id="Group">
+            <g>
+                <path d="M10,0 C4.486,0 0,4.486 0,10.00002 C0,15.51402 4.486,20.00002 10,20.00002 C15.514,20.00002 20,15.51402 20,10.00002 C20,4.486 15.514,0 10,0 Z M15,11.00002 L11,11.00002 L11,15.00002 L9,15.00002 L9,11.00002 L5,11.00002 L5,9.00002 L9,9.00002 L9,5 L11,5 L11,9.00002 L15,9.00002 L15,11.00002 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>
